@@ -1,0 +1,5 @@
+# This file is used by git-cl to get repository specific information.
+CC_LIST: webrtc-reviews@webrtc.org
+CODE_REVIEW_SERVER: codereview.webrtc.org
+PROJECT: webrtc
+VIEW_VC: https://webrtc.googlesource.com/src/+/
